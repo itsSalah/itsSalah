@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsSalah
 - 👀 I’m interested in ... Coding and sports !
-- 🌱 I’m currently learning ... web programming and python.
+- 🌱 I’m currently learning ... AI and python.
 - 💞️ I’m looking to collaborate on ... fun projects !
 - 📫 How to reach me ... salahwarid@hotmail.com
 
