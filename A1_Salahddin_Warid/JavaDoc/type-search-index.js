@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"p4","l":"AirCraft"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"p2","l":"CityBus"},{"p":"p4","l":"AirCraft.classType"},{"p":"p3","l":"Ferry"},{"p":"<Unnamed>","l":"Main"},{"p":"p4","l":"AirCraft.maintenanceType"},{"p":"p2","l":"Metro"},{"p":"p1","l":"PublicTransportation"},{"p":"p2","l":"Tram"}];updateSearchResults();
